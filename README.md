@@ -2,9 +2,9 @@
 Web profile as workshop.
 
 Environment used:
-Visual Code
-HTML
-CSS
+Visual Code,
+HTML,
+CSS,
 
 # Description-details
 A simple web portofolio using HTML & CSS
