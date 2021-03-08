@@ -1,4 +1,4 @@
-# Porto-Web pure HTML&CSS
+# Porto-Web HTML&CSS
 Web profile as workshop.
 
 Environment used:
